@@ -1,0 +1,127 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/chrome/test/data/safe_browsing/dmg",
+  "install_mode": "copy",
+  "files": [
+    {
+      "name": "data/dmg_UDBZ_GPTSPUD.dmg",
+      "size": 13816
+    },
+    {
+      "name": "data/dmg_UDBZ_NONE.dmg",
+      "size": 8075
+    },
+    {
+      "name": "data/dmg_UDBZ_SPUD.dmg",
+      "size": 10454
+    },
+    {
+      "name": "data/dmg_UDCO_GPTSPUD.dmg",
+      "size": 123022
+    },
+    {
+      "name": "data/dmg_UDCO_NONE.dmg",
+      "size": 116052
+    },
+    {
+      "name": "data/dmg_UDCO_SPUD.dmg",
+      "size": 119797
+    },
+    {
+      "name": "data/dmg_UDRO_GPTSPUD.dmg",
+      "size": 139141
+    },
+    {
+      "name": "data/dmg_UDRO_NONE.dmg",
+      "size": 82743
+    },
+    {
+      "name": "data/dmg_UDRO_SPUD.dmg",
+      "size": 87017
+    },
+    {
+      "name": "data/dmg_UDRW_GPTSPUD.dmg",
+      "size": 2471936
+    },
+    {
+      "name": "data/dmg_UDRW_NONE.dmg",
+      "size": 2435072
+    },
+    {
+      "name": "data/dmg_UDRW_SPUD.dmg",
+      "size": 2467840
+    },
+    {
+      "name": "data/dmg_UDSP_GPTSPUD.sparseimage",
+      "size": 3149824
+    },
+    {
+      "name": "data/dmg_UDSP_NONE.sparseimage",
+      "size": 3149824
+    },
+    {
+      "name": "data/dmg_UDSP_SPUD.sparseimage",
+      "size": 3149824
+    },
+    {
+      "name": "data/dmg_UDTO_GPTSPUD.cdr",
+      "size": 2471936
+    },
+    {
+      "name": "data/dmg_UDTO_NONE.cdr",
+      "size": 2435072
+    },
+    {
+      "name": "data/dmg_UDTO_SPUD.cdr",
+      "size": 2465792
+    },
+    {
+      "name": "data/dmg_UDZO_GPTSPUD.dmg",
+      "size": 24471
+    },
+    {
+      "name": "data/dmg_UDZO_NONE.dmg",
+      "size": 18778
+    },
+    {
+      "name": "data/dmg_UDZO_SPUD.dmg",
+      "size": 21253
+    },
+    {
+      "name": "data/dmg_UFBI_GPTSPUD.dmg",
+      "size": 2480357
+    },
+    {
+      "name": "data/dmg_UFBI_NONE.dmg",
+      "size": 2438352
+    },
+    {
+      "name": "data/dmg_UFBI_SPUD.dmg",
+      "size": 2473289
+    },
+    {
+      "name": "data/hfs_plus.img",
+      "size": 524288
+    },
+    {
+      "name": "data/hfsx_case_sensitive.img",
+      "size": 4194304
+    },
+    {
+      "name": "data/mach_o_in_dmg.dmg",
+      "size": 54791
+    },
+    {
+      "name": "data/mach_o_in_dmg.txt",
+      "size": 54791
+    },
+    {
+      "name": "data/mach_o_in_dmg_no_koly_signature.dmg",
+      "size": 54791
+    },
+    {
+      "name": "data/mach_o_in_dmg_no_koly_signature.txt",
+      "size": 54791
+    }
+  ]
+}
