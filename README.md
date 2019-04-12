@@ -8,6 +8,9 @@ git config --global core.precomposeUnicode true
 mkdir chromium && cd chromium
 fetch chromium
 cd src
+gn gen out/Default
+brew install --HEAD ccache
+autoninja -C out/Default chrome
 ```
 
 # last log memo
